@@ -1,0 +1,502 @@
+[
+  {
+    "id": 0,
+    "english": "Attaboy!",
+    "toki_pona": "pona a!"
+  },
+  {
+    "id": 1,
+    "english": "I'll go to work.",
+    "toki_pona": "mi tawa pali."
+  },
+  {
+    "id": 2,
+    "english": "Go sleep!",
+    "toki_pona": "o tawa lape!"
+  },
+  {
+    "id": 3,
+    "english": "Who helps her?",
+    "toki_pona": "jan seme li wile pana e pona tawa ona?"
+  },
+  {
+    "id": 4,
+    "english": "I'm a drug addict.",
+    "toki_pona": "mi wile wawa e ilo nasa."
+  },
+  {
+    "id": 5,
+    "english": "Who's going to drive?",
+    "toki_pona": "jan seme li lawa e tomo tawa?"
+  },
+  {
+    "id": 6,
+    "english": "Why don't we stay home?",
+    "toki_pona": "mi mute li awen ala lon tomo tan seme?"
+  },
+  {
+    "id": 7,
+    "english": "What is the color of the cheese?",
+    "toki_pona": "ko pi telo walo li jo e kule seme?"
+  },
+  {
+    "id": 8,
+    "english": "You eat rice.",
+    "toki_pona": "sina moku e pan walo."
+  },
+  {
+    "id": 9,
+    "english": "Have you brought the book?",
+    "toki_pona": "sina kama ala kama e lipu sona?"
+  },
+  {
+    "id": 10,
+    "english": "When do you work?",
+    "toki_pona": "sina pali lon tenpo seme?"
+  },
+  {
+    "id": 11,
+    "english": "You didn't see anything.",
+    "toki_pona": "tenpo pini la, sina lukin ala e ijo."
+  },
+  {
+    "id": 12,
+    "english": "They had built roads and bridges.",
+    "toki_pona": "jan li pali e nasin e nasin pi noka suli."
+  },
+  {
+    "id": 13,
+    "english": "What does he intend to do?",
+    "toki_pona": "ona li wile pali e seme?"
+  },
+  {
+    "id": 14,
+    "english": "I'm going to be old some day, too.",
+    "toki_pona": "tenpo kama la mi kin li majuna."
+  },
+  {
+    "id": 15,
+    "english": "They're vegan.",
+    "toki_pona": "ona mute li jo ala e ijo soweli."
+  },
+  {
+    "id": 16,
+    "english": "Many people don’t know this.",
+    "toki_pona": "jan mute li sona ala e ni."
+  },
+  {
+    "id": 17,
+    "english": "Guys, I gotta go.",
+    "toki_pona": "jan o, mi wile tawa weka."
+  },
+  {
+    "id": 18,
+    "english": "They stayed with their families.",
+    "toki_pona": "ona li awen lon kulupu mama ona."
+  },
+  {
+    "id": 19,
+    "english": "You recovered.",
+    "toki_pona": "sijelo sina li kama pona."
+  },
+  {
+    "id": 20,
+    "english": "She decorated the wall with pictures.",
+    "toki_pona": "ona li pana e sitelen lon sinpin."
+  },
+  {
+    "id": 21,
+    "english": "The road is poorly maintained.",
+    "toki_pona": "jan li awen ala pona e nasin."
+  },
+  {
+    "id": 22,
+    "english": "Whose dress is this?",
+    "toki_pona": "jan seme li jo e len meli ni?"
+  },
+  {
+    "id": 23,
+    "english": "I live in a town.",
+    "toki_pona": "mi jo e tomo lon ma tomo."
+  },
+  {
+    "id": 24,
+    "english": "Why doesn't anybody help me?",
+    "toki_pona": "jan ala li pana e pona tawa mi tan seme?"
+  },
+  {
+    "id": 25,
+    "english": "Why are you so busy?",
+    "toki_pona": "sina pali mute mute tan seme?"
+  },
+  {
+    "id": 26,
+    "english": "I want to eat a mango.",
+    "toki_pona": "mi wile moku e kili."
+  },
+  {
+    "id": 27,
+    "english": "He especially likes swimming.",
+    "toki_pona": "suli la tawa lon telo li pona tawa ona."
+  },
+  {
+    "id": 28,
+    "english": "It's shaped like an octagon.",
+    "toki_pona": "sijelo ona li sama sitelen pi linja luka tu wan."
+  },
+  {
+    "id": 29,
+    "english": "I hate garlic.",
+    "toki_pona": "kili namako li ike mute tawa mi."
+  },
+  {
+    "id": 30,
+    "english": "Have things changed since then?",
+    "toki_pona": "ijo li kama ante tan tenpo ni anu seme?"
+  },
+  {
+    "id": 31,
+    "english": "Try and do it.",
+    "toki_pona": "o lukin pali e ni."
+  },
+  {
+    "id": 32,
+    "english": "Look at those fish in the pond.",
+    "toki_pona": "o lukin e kala lon telo."
+  },
+  {
+    "id": 33,
+    "english": "It feels like my mouth is on fire.",
+    "toki_pona": "insa uta mi li seli pilin mute."
+  },
+  {
+    "id": 34,
+    "english": "I am to your left.",
+    "toki_pona": "mi lon poka pilin sina."
+  },
+  {
+    "id": 35,
+    "english": "She loves sex.",
+    "toki_pona": "unpa li pona mute tawa ona."
+  },
+  {
+    "id": 36,
+    "english": "The city was under siege.",
+    "toki_pona": "jan utala li utala sike e ma tomo."
+  },
+  {
+    "id": 37,
+    "english": "I like to cook.",
+    "toki_pona": "seli moku li pona tawa mi."
+  },
+  {
+    "id": 38,
+    "english": "I am funny.",
+    "toki_pona": "mi musi."
+  },
+  {
+    "id": 39,
+    "english": "I've drunk three beers already.",
+    "toki_pona": "mi moku e telo nasa pan tu wan."
+  },
+  {
+    "id": 40,
+    "english": "Eat!",
+    "toki_pona": "o moku!"
+  },
+  {
+    "id": 41,
+    "english": "We'll attack.",
+    "toki_pona": "mi utala."
+  },
+  {
+    "id": 42,
+    "english": "Have you been busy recently?",
+    "toki_pona": "tenpo pini poka la sina pali anu seme?"
+  },
+  {
+    "id": 43,
+    "english": "Don't move, please.",
+    "toki_pona": "o tawa ala."
+  },
+  {
+    "id": 44,
+    "english": "We enjoyed that.",
+    "toki_pona": "ni li pona tawa mi."
+  },
+  {
+    "id": 45,
+    "english": "How much money do you want to earn?",
+    "toki_pona": "sina wile alasa e mani pi mute seme kepeken pali?"
+  },
+  {
+    "id": 46,
+    "english": "I kind of hope it doesn't rain.",
+    "toki_pona": "mi wile e ni: telo sewi li kama ala."
+  },
+  {
+    "id": 47,
+    "english": "Are these for sale?",
+    "toki_pona": "sina esun ala esun e ni?"
+  },
+  {
+    "id": 48,
+    "english": "Delete?",
+    "toki_pona": "o weka ala weka?"
+  },
+  {
+    "id": 49,
+    "english": "Why is that important to you?",
+    "toki_pona": "ni li suli tawa sina tan seme?"
+  },
+  {
+    "id": 50,
+    "english": "I ask for help from you.",
+    "toki_pona": "mi wile e ni: sina pana e pona tawa mi."
+  },
+  {
+    "id": 51,
+    "english": "Their face went red.",
+    "toki_pona": "sinpin ona li kama loje."
+  },
+  {
+    "id": 52,
+    "english": "Listen to her!",
+    "toki_pona": "o kute e ona."
+  },
+  {
+    "id": 53,
+    "english": "How do you know me?",
+    "toki_pona": "sina sona e mi tan seme?"
+  },
+  {
+    "id": 54,
+    "english": "Water is important for people.",
+    "toki_pona": "telo li suli tawa jan."
+  },
+  {
+    "id": 55,
+    "english": "He was paralyzed with terror.",
+    "toki_pona": "ona li ken ala tawa tan pilin monsuta."
+  },
+  {
+    "id": 56,
+    "english": "Have you ever thought about moving?",
+    "toki_pona": "sina wile ala wile ante e tomo sina?"
+  },
+  {
+    "id": 57,
+    "english": "I want a sample.",
+    "toki_pona": "mi wile e kipisi."
+  },
+  {
+    "id": 58,
+    "english": "She died.",
+    "toki_pona": "ona li moli."
+  },
+  {
+    "id": 59,
+    "english": "Where is my pencil?",
+    "toki_pona": "ilo sitelen mi li lon seme?"
+  },
+  {
+    "id": 60,
+    "english": "I am going, too.",
+    "toki_pona": "mi tawa kin."
+  },
+  {
+    "id": 61,
+    "english": "You're totally ignorant.",
+    "toki_pona": "sina wile ala sona."
+  },
+  {
+    "id": 62,
+    "english": "This will be a great opportunity.",
+    "toki_pona": "ni li tenpo pi pona mute."
+  },
+  {
+    "id": 63,
+    "english": "What happened to me?",
+    "toki_pona": "seme li kama tawa mi?"
+  },
+  {
+    "id": 64,
+    "english": "You guys eat rice.",
+    "toki_pona": "sina moku e pan."
+  },
+  {
+    "id": 65,
+    "english": "Turn right.",
+    "toki_pona": "o tawa poka lawa."
+  },
+  {
+    "id": 66,
+    "english": "Cool!",
+    "toki_pona": "epiku!"
+  },
+  {
+    "id": 67,
+    "english": "I'm angry and also tired.",
+    "toki_pona": "mi pilin utala. sin la mi wile lape."
+  },
+  {
+    "id": 68,
+    "english": "These girls are not speaking but singing.",
+    "toki_pona": "meli lili ni li toki ala li kalama musi uta."
+  },
+  {
+    "id": 69,
+    "english": "I didn't know that you wrote poems.",
+    "toki_pona": "mi sona ala e ni: sina sitelen e toki musi."
+  },
+  {
+    "id": 70,
+    "english": "You must study hard.",
+    "toki_pona": "sina wile kama sona wawa."
+  },
+  {
+    "id": 71,
+    "english": "Frogs eat insects.",
+    "toki_pona": "akesi li moku e pipi."
+  },
+  {
+    "id": 72,
+    "english": "How many onions?",
+    "toki_pona": "sina wile e kili pi mute seme?"
+  },
+  {
+    "id": 73,
+    "english": "I have got a question.",
+    "toki_pona": "mi wile sona e ijo."
+  },
+  {
+    "id": 74,
+    "english": "I don't know what's real.",
+    "toki_pona": "mi sona ala e ni: seme li lon?"
+  },
+  {
+    "id": 75,
+    "english": "I agree.",
+    "toki_pona": "mi pilin sama."
+  },
+  {
+    "id": 76,
+    "english": "Machines don't think.",
+    "toki_pona": "ilo li pilin ala."
+  },
+  {
+    "id": 77,
+    "english": "Is that a possibility?",
+    "toki_pona": "ni li ken ala ken?"
+  },
+  {
+    "id": 78,
+    "english": "I like to talk about love.",
+    "toki_pona": "mi toki lon olin la ni li pona tawa mi."
+  },
+  {
+    "id": 79,
+    "english": "Let's not talk about that now.",
+    "toki_pona": "tenpo ni la mi mute o toki ala ni."
+  },
+  {
+    "id": 80,
+    "english": "But I didn't draw a hat.",
+    "toki_pona": "taso mi sitelen ala e len lawa."
+  },
+  {
+    "id": 81,
+    "english": "I find your arguments illogical.",
+    "toki_pona": "pilin mi la toki sina li jo ala e sona."
+  },
+  {
+    "id": 82,
+    "english": "I thought that you didn't want to come.",
+    "toki_pona": "pilin mi la sina ken ala kama."
+  },
+  {
+    "id": 83,
+    "english": "Awesome!",
+    "toki_pona": "pona!"
+  },
+  {
+    "id": 84,
+    "english": "Hey restaurant worker, this container is broken.",
+    "toki_pona": "jan pali pi tomo moku o, poki ni li pakala."
+  },
+  {
+    "id": 85,
+    "english": "I want to ask him something.",
+    "toki_pona": "mi wile toki e wile sona tawa ona."
+  },
+  {
+    "id": 86,
+    "english": "It's all over.",
+    "toki_pona": "ali li pini."
+  },
+  {
+    "id": 87,
+    "english": "It can bark.",
+    "toki_pona": "ona ken kalama suli."
+  },
+  {
+    "id": 88,
+    "english": "I know you have it.",
+    "toki_pona": "mi sona e ni: sina jo e ona."
+  },
+  {
+    "id": 89,
+    "english": "I care about you and your family.",
+    "toki_pona": "sina en kulupu mama sina li suli tawa mi."
+  },
+  {
+    "id": 90,
+    "english": "I need to shit.",
+    "toki_pona": "mi wile pana e ko jaki."
+  },
+  {
+    "id": 91,
+    "english": "Cut it.",
+    "toki_pona": "o kipisi e ni."
+  },
+  {
+    "id": 92,
+    "english": "This is a very serious problem.",
+    "toki_pona": "ni li ike suli."
+  },
+  {
+    "id": 93,
+    "english": "I knew both the writer and the book.",
+    "toki_pona": "mi sona e jan sitelen e lipu."
+  },
+  {
+    "id": 94,
+    "english": "Thinking hurts.",
+    "toki_pona": "toki insa li pana e pilin ike."
+  },
+  {
+    "id": 95,
+    "english": "A century is one hundred years.",
+    "toki_pona": "tenpo suli ni li sike suno mute."
+  },
+  {
+    "id": 96,
+    "english": "Cats don't drink tea.",
+    "toki_pona": "soweli li moku ala e telo kasi."
+  },
+  {
+    "id": 97,
+    "english": "Kiss my ass.",
+    "toki_pona": "o uta e monsi mi."
+  },
+  {
+    "id": 98,
+    "english": "Kitty!",
+    "toki_pona": "soweli pona a!"
+  },
+  {
+    "id": 99,
+    "english": "It was very cold.",
+    "toki_pona": "lete mute li lon."
+  }
+]

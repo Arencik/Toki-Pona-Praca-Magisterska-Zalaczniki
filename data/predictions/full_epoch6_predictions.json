@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "english": "Attaboy!",
+    "reference_toki_pona": "pona a!",
+    "prediction": "jan Sami o!"
+  },
+  {
+    "id": 1,
+    "english": "I'll go to work.",
+    "reference_toki_pona": "mi tawa pali.",
+    "prediction": "mi tawa pali."
+  },
+  {
+    "id": 2,
+    "english": "Go sleep!",
+    "reference_toki_pona": "o tawa lape!",
+    "prediction": "o lape a!"
+  },
+  {
+    "id": 3,
+    "english": "Who helps her?",
+    "reference_toki_pona": "jan seme li wile pana e pona tawa ona?",
+    "prediction": "jan seme li pana e pona tawa ona?"
+  },
+  {
+    "id": 4,
+    "english": "I'm a drug addict.",
+    "reference_toki_pona": "mi wile wawa e ilo nasa.",
+    "prediction": "mi jan pi moku ala e ilo nasa."
+  },
+  {
+    "id": 5,
+    "english": "Who's going to drive?",
+    "reference_toki_pona": "jan seme li lawa e tomo tawa?",
+    "prediction": "jan seme li lawa e tomo tawa sina?"
+  },
+  {
+    "id": 6,
+    "english": "Why don't we stay home?",
+    "reference_toki_pona": "mi mute li awen ala lon tomo tan seme?",
+    "prediction": "mi mute li awen ala lon tomo tan seme?"
+  },
+  {
+    "id": 7,
+    "english": "What is the color of the cheese?",
+    "reference_toki_pona": "ko pi telo walo li jo e kule seme?",
+    "prediction": "kule li kule e kule seme?"
+  },
+  {
+    "id": 8,
+    "english": "You eat rice.",
+    "reference_toki_pona": "sina moku e pan walo.",
+    "prediction": "sina moku e pan."
+  },
+  {
+    "id": 9,
+    "english": "Have you brought the book?",
+    "reference_toki_pona": "sina kama ala kama e lipu sona?",
+    "prediction": "sina pana ala pana e lipu tawa sina?"
+  },
+  {
+    "id": 10,
+    "english": "When do you work?",
+    "reference_toki_pona": "sina pali lon tenpo seme?",
+    "prediction": "tenpo seme la sina pali lon tenpo seme?"
+  },
+  {
+    "id": 11,
+    "english": "You didn't see anything.",
+    "reference_toki_pona": "tenpo pini la, sina lukin ala e ijo.",
+    "prediction": "sina lukin ala e ijo."
+  },
+  {
+    "id": 12,
+    "english": "They had built roads and bridges.",
+    "reference_toki_pona": "jan li pali e nasin e nasin pi noka suli.",
+    "prediction": "ona mute li pali e nasin e nasin pi nasin suli."
+  },
+  {
+    "id": 13,
+    "english": "What does he intend to do?",
+    "reference_toki_pona": "ona li wile pali e seme?",
+    "prediction": "ona li wile pali e seme?"
+  },
+  {
+    "id": 14,
+    "english": "I'm going to be old some day, too.",
+    "reference_toki_pona": "tenpo kama la mi kin li majuna.",
+    "prediction": "tenpo suno kama la mi jo e sike sin."
+  },
+  {
+    "id": 15,
+    "english": "They're vegan.",
+    "reference_toki_pona": "ona mute li jo ala e ijo soweli.",
+    "prediction": "ona mute li moku ala e soweli."
+  },
+  {
+    "id": 16,
+    "english": "Many people don’t know this.",
+    "reference_toki_pona": "jan mute li sona ala e ni.",
+    "prediction": "jan mute li sona ala e ni."
+  },
+  {
+    "id": 17,
+    "english": "Guys, I gotta go.",
+    "reference_toki_pona": "jan o, mi wile tawa weka.",
+    "prediction": "jan o! o, mi kama."
+  },
+  {
+    "id": 18,
+    "english": "They stayed with their families.",
+    "reference_toki_pona": "ona li awen lon kulupu mama ona.",
+    "prediction": "ona li awen lon poka pi kulupu mama ona."
+  },
+  {
+    "id": 19,
+    "english": "You recovered.",
+    "reference_toki_pona": "sijelo sina li kama pona.",
+    "prediction": "sina kama pakala."
+  },
+  {
+    "id": 20,
+    "english": "She decorated the wall with pictures.",
+    "reference_toki_pona": "ona li pana e sitelen lon sinpin.",
+    "prediction": "ona li pona e supa lon supa."
+  },
+  {
+    "id": 21,
+    "english": "The road is poorly maintained.",
+    "reference_toki_pona": "jan li awen ala pona e nasin.",
+    "prediction": "nasin li ken ala awen e nasin ni."
+  },
+  {
+    "id": 22,
+    "english": "Whose dress is this?",
+    "reference_toki_pona": "jan seme li jo e len meli ni?",
+    "prediction": "len ni li seme?"
+  },
+  {
+    "id": 23,
+    "english": "I live in a town.",
+    "reference_toki_pona": "mi jo e tomo lon ma tomo.",
+    "prediction": "mi awen lon ma tomo."
+  },
+  {
+    "id": 24,
+    "english": "Why doesn't anybody help me?",
+    "reference_toki_pona": "jan ala li pana e pona tawa mi tan seme?",
+    "prediction": "jan ala li pana e pona tawa mi?"
+  },
+  {
+    "id": 25,
+    "english": "Why are you so busy?",
+    "reference_toki_pona": "sina pali mute mute tan seme?",
+    "prediction": "sina pali mute tan seme?"
+  },
+  {
+    "id": 26,
+    "english": "I want to eat a mango.",
+    "reference_toki_pona": "mi wile moku e kili.",
+    "prediction": "mi wile moku e soweli."
+  },
+  {
+    "id": 27,
+    "english": "He especially likes swimming.",
+    "reference_toki_pona": "suli la tawa lon telo li pona tawa ona.",
+    "prediction": "ona li tawa lon telo la ona li pona tawa ona."
+  },
+  {
+    "id": 28,
+    "english": "It's shaped like an octagon.",
+    "reference_toki_pona": "sijelo ona li sama sitelen pi linja luka tu wan.",
+    "prediction": "ona li sama ilo linja pi sike lili."
+  },
+  {
+    "id": 29,
+    "english": "I hate garlic.",
+    "reference_toki_pona": "kili namako li ike mute tawa mi.",
+    "prediction": "kili loje li ike mute tawa mi."
+  },
+  {
+    "id": 30,
+    "english": "Have things changed since then?",
+    "reference_toki_pona": "ijo li kama ante tan tenpo ni anu seme?",
+    "prediction": "ijo li ante la ijo li kama ante anu seme?"
+  },
+  {
+    "id": 31,
+    "english": "Try and do it.",
+    "reference_toki_pona": "o lukin pali e ni.",
+    "prediction": "o lukin o pali e ni."
+  },
+  {
+    "id": 32,
+    "english": "Look at those fish in the pond.",
+    "reference_toki_pona": "o lukin e kala lon telo.",
+    "prediction": "o lukin e kala ni lon telo."
+  },
+  {
+    "id": 33,
+    "english": "It feels like my mouth is on fire.",
+    "reference_toki_pona": "insa uta mi li seli pilin mute.",
+    "prediction": "ona li pilin e ni: mi seli e telo."
+  },
+  {
+    "id": 34,
+    "english": "I am to your left.",
+    "reference_toki_pona": "mi lon poka pilin sina.",
+    "prediction": "mi lon poka sina."
+  },
+  {
+    "id": 35,
+    "english": "She loves sex.",
+    "reference_toki_pona": "unpa li pona mute tawa ona.",
+    "prediction": "unpa li pona mute tawa ona."
+  },
+  {
+    "id": 36,
+    "english": "The city was under siege.",
+    "reference_toki_pona": "jan utala li utala sike e ma tomo.",
+    "prediction": "jan li utala e ma tomo suli."
+  },
+  {
+    "id": 37,
+    "english": "I like to cook.",
+    "reference_toki_pona": "seli moku li pona tawa mi.",
+    "prediction": "seli li pona tawa mi."
+  },
+  {
+    "id": 38,
+    "english": "I am funny.",
+    "reference_toki_pona": "mi musi.",
+    "prediction": "mi musi."
+  },
+  {
+    "id": 39,
+    "english": "I've drunk three beers already.",
+    "reference_toki_pona": "mi moku e telo nasa pan tu wan.",
+    "prediction": "tenpo ni la mi moku e telo nasa tu wan."
+  },
+  {
+    "id": 40,
+    "english": "Eat!",
+    "reference_toki_pona": "o moku!",
+    "prediction": "o moku a!"
+  },
+  {
+    "id": 41,
+    "english": "We'll attack.",
+    "reference_toki_pona": "mi utala.",
+    "prediction": "mi utala li utala."
+  },
+  {
+    "id": 42,
+    "english": "Have you been busy recently?",
+    "reference_toki_pona": "tenpo pini poka la sina pali anu seme?",
+    "prediction": "tenpo pini la sina pali ala pali e ni?"
+  },
+  {
+    "id": 43,
+    "english": "Don't move, please.",
+    "reference_toki_pona": "o tawa ala.",
+    "prediction": "o tawa ala."
+  },
+  {
+    "id": 44,
+    "english": "We enjoyed that.",
+    "reference_toki_pona": "ni li pona tawa mi.",
+    "prediction": "ni li pona tawa mi mute."
+  },
+  {
+    "id": 45,
+    "english": "How much money do you want to earn?",
+    "reference_toki_pona": "sina wile alasa e mani pi mute seme kepeken pali?",
+    "prediction": "sina wile kama jo e mani pi mute seme?"
+  },
+  {
+    "id": 46,
+    "english": "I kind of hope it doesn't rain.",
+    "reference_toki_pona": "mi wile e ni: telo sewi li kama ala.",
+    "prediction": "mi wile e ni: telo li kama tan sewi."
+  },
+  {
+    "id": 47,
+    "english": "Are these for sale?",
+    "reference_toki_pona": "sina esun ala esun e ni?",
+    "prediction": "ni li tawa musi anu seme?"
+  },
+  {
+    "id": 48,
+    "english": "Delete?",
+    "reference_toki_pona": "o weka ala weka?",
+    "prediction": "o awen."
+  },
+  {
+    "id": 49,
+    "english": "Why is that important to you?",
+    "reference_toki_pona": "ni li suli tawa sina tan seme?",
+    "prediction": "ni li suli tawa sina tan seme?"
+  },
+  {
+    "id": 50,
+    "english": "I ask for help from you.",
+    "reference_toki_pona": "mi wile e ni: sina pana e pona tawa mi.",
+    "prediction": "mi toki e ni tawa mi: mi wile pana e pona tawa sina."
+  },
+  {
+    "id": 51,
+    "english": "Their face went red.",
+    "reference_toki_pona": "sinpin ona li kama loje.",
+    "prediction": "sinpin ona li kama laso."
+  },
+  {
+    "id": 52,
+    "english": "Listen to her!",
+    "reference_toki_pona": "o kute e ona.",
+    "prediction": "o kute e ona!"
+  },
+  {
+    "id": 53,
+    "english": "How do you know me?",
+    "reference_toki_pona": "sina sona e mi tan seme?",
+    "prediction": "nasin seme la sina sona e mi?"
+  },
+  {
+    "id": 54,
+    "english": "Water is important for people.",
+    "reference_toki_pona": "telo li suli tawa jan.",
+    "prediction": "telo li suli tawa jan."
+  },
+  {
+    "id": 55,
+    "english": "He was paralyzed with terror.",
+    "reference_toki_pona": "ona li ken ala tawa tan pilin monsuta.",
+    "prediction": "ona li pilin ike tan utala utala."
+  },
+  {
+    "id": 56,
+    "english": "Have you ever thought about moving?",
+    "reference_toki_pona": "sina wile ala wile ante e tomo sina?",
+    "prediction": "tenpo pini la sina pilin ala pilin tawa sina?"
+  },
+  {
+    "id": 57,
+    "english": "I want a sample.",
+    "reference_toki_pona": "mi wile e kipisi.",
+    "prediction": "mi wile e lipu."
+  },
+  {
+    "id": 58,
+    "english": "She died.",
+    "reference_toki_pona": "ona li moli.",
+    "prediction": "ona li moli."
+  },
+  {
+    "id": 59,
+    "english": "Where is my pencil?",
+    "reference_toki_pona": "ilo sitelen mi li lon seme?",
+    "prediction": "ilo sitelen mi li lon seme?"
+  },
+  {
+    "id": 60,
+    "english": "I am going, too.",
+    "reference_toki_pona": "mi tawa kin.",
+    "prediction": "mi tawa."
+  },
+  {
+    "id": 61,
+    "english": "You're totally ignorant.",
+    "reference_toki_pona": "sina wile ala sona.",
+    "prediction": "sina sona ala e ni:"
+  },
+  {
+    "id": 62,
+    "english": "This will be a great opportunity.",
+    "reference_toki_pona": "ni li tenpo pi pona mute.",
+    "prediction": "ni li ijo pi pona mute."
+  },
+  {
+    "id": 63,
+    "english": "What happened to me?",
+    "reference_toki_pona": "seme li kama tawa mi?",
+    "prediction": "seme li kama tawa mi?"
+  },
+  {
+    "id": 64,
+    "english": "You guys eat rice.",
+    "reference_toki_pona": "sina moku e pan.",
+    "prediction": "sina mute li moku e pan."
+  },
+  {
+    "id": 65,
+    "english": "Turn right.",
+    "reference_toki_pona": "o tawa poka lawa.",
+    "prediction": "o tawa poka lawa."
+  },
+  {
+    "id": 66,
+    "english": "Cool!",
+    "reference_toki_pona": "epiku!",
+    "prediction": "pona a!"
+  },
+  {
+    "id": 67,
+    "english": "I'm angry and also tired.",
+    "reference_toki_pona": "mi pilin utala. sin la mi wile lape.",
+    "prediction": "mi pilin utala li pilin lape."
+  },
+  {
+    "id": 68,
+    "english": "These girls are not speaking but singing.",
+    "reference_toki_pona": "meli lili ni li toki ala li kalama musi uta.",
+    "prediction": "meli lili ni li toki ala taso meli ni li kalama musi."
+  },
+  {
+    "id": 69,
+    "english": "I didn't know that you wrote poems.",
+    "reference_toki_pona": "mi sona ala e ni: sina sitelen e toki musi.",
+    "prediction": "mi sona ala e ni: sina sitelen e toki musi."
+  },
+  {
+    "id": 70,
+    "english": "You must study hard.",
+    "reference_toki_pona": "sina wile kama sona wawa.",
+    "prediction": "sina wile kama sona mute."
+  },
+  {
+    "id": 71,
+    "english": "Frogs eat insects.",
+    "reference_toki_pona": "akesi li moku e pipi.",
+    "prediction": "soweli lili li moku e pipi."
+  },
+  {
+    "id": 72,
+    "english": "How many onions?",
+    "reference_toki_pona": "sina wile e kili pi mute seme?",
+    "prediction": "kili pi mute seme li seme?"
+  },
+  {
+    "id": 73,
+    "english": "I have got a question.",
+    "reference_toki_pona": "mi wile sona e ijo.",
+    "prediction": "mi jo e wile sona sona."
+  },
+  {
+    "id": 74,
+    "english": "I don't know what's real.",
+    "reference_toki_pona": "mi sona ala e ni: seme li lon?",
+    "prediction": "mi sona ala e ni: seme li lon."
+  },
+  {
+    "id": 75,
+    "english": "I agree.",
+    "reference_toki_pona": "mi pilin sama.",
+    "prediction": "mi pilin pona."
+  },
+  {
+    "id": 76,
+    "english": "Machines don't think.",
+    "reference_toki_pona": "ilo li pilin ala.",
+    "prediction": "ilo li pilin ala."
+  },
+  {
+    "id": 77,
+    "english": "Is that a possibility?",
+    "reference_toki_pona": "ni li ken ala ken?",
+    "prediction": "ni li ken ala ken kama?"
+  },
+  {
+    "id": 78,
+    "english": "I like to talk about love.",
+    "reference_toki_pona": "mi toki lon olin la ni li pona tawa mi.",
+    "prediction": "toki li pona tawa mi."
+  },
+  {
+    "id": 79,
+    "english": "Let's not talk about that now.",
+    "reference_toki_pona": "tenpo ni la mi mute o toki ala ni.",
+    "prediction": "mi mute o toki ala e ni lon tenpo ni."
+  },
+  {
+    "id": 80,
+    "english": "But I didn't draw a hat.",
+    "reference_toki_pona": "taso mi sitelen ala e len lawa.",
+    "prediction": "taso mi sitelen ala e len lawa mi."
+  },
+  {
+    "id": 81,
+    "english": "I find your arguments illogical.",
+    "reference_toki_pona": "pilin mi la toki sina li jo ala e sona.",
+    "prediction": "mi lukin e ni: sina toki e lon ala."
+  },
+  {
+    "id": 82,
+    "english": "I thought that you didn't want to come.",
+    "reference_toki_pona": "pilin mi la sina ken ala kama.",
+    "prediction": "mi pilin e ni: sina wile ala kama."
+  },
+  {
+    "id": 83,
+    "english": "Awesome!",
+    "reference_toki_pona": "pona!",
+    "prediction": "pona a!"
+  },
+  {
+    "id": 84,
+    "english": "Hey restaurant worker, this container is broken.",
+    "reference_toki_pona": "jan pali pi tomo moku o, poki ni li pakala.",
+    "prediction": "jan pali pi tomo moku ni li pakala."
+  },
+  {
+    "id": 85,
+    "english": "I want to ask him something.",
+    "reference_toki_pona": "mi wile toki e wile sona tawa ona.",
+    "prediction": "mi wile toki e ijo tawa ona."
+  },
+  {
+    "id": 86,
+    "english": "It's all over.",
+    "reference_toki_pona": "ali li pini.",
+    "prediction": "ale li ale."
+  },
+  {
+    "id": 87,
+    "english": "It can bark.",
+    "reference_toki_pona": "ona ken kalama suli.",
+    "prediction": "ona li ken mu."
+  },
+  {
+    "id": 88,
+    "english": "I know you have it.",
+    "reference_toki_pona": "mi sona e ni: sina jo e ona.",
+    "prediction": "mi sona e ni: sina jo e ona."
+  },
+  {
+    "id": 89,
+    "english": "I care about you and your family.",
+    "reference_toki_pona": "sina en kulupu mama sina li suli tawa mi.",
+    "prediction": "sina en kulupu mama sina li pona tawa mi."
+  },
+  {
+    "id": 90,
+    "english": "I need to shit.",
+    "reference_toki_pona": "mi wile pana e ko jaki.",
+    "prediction": "mi wile pana e ko jaki."
+  },
+  {
+    "id": 91,
+    "english": "Cut it.",
+    "reference_toki_pona": "o kipisi e ni.",
+    "prediction": "o kipisi e ona."
+  },
+  {
+    "id": 92,
+    "english": "This is a very serious problem.",
+    "reference_toki_pona": "ni li ike suli.",
+    "prediction": "ni li ike mute."
+  },
+  {
+    "id": 93,
+    "english": "I knew both the writer and the book.",
+    "reference_toki_pona": "mi sona e jan sitelen e lipu.",
+    "prediction": "mi sona e jan pali e lipu."
+  },
+  {
+    "id": 94,
+    "english": "Thinking hurts.",
+    "reference_toki_pona": "toki insa li pana e pilin ike.",
+    "prediction": "pilin li pana e pilin ike."
+  },
+  {
+    "id": 95,
+    "english": "A century is one hundred years.",
+    "reference_toki_pona": "tenpo suli ni li sike suno mute.",
+    "prediction": "sike suno mute li sike suno mute luka luka tu."
+  },
+  {
+    "id": 96,
+    "english": "Cats don't drink tea.",
+    "reference_toki_pona": "soweli li moku ala e telo kasi.",
+    "prediction": "soweli li moku ala e telo walo."
+  },
+  {
+    "id": 97,
+    "english": "Kiss my ass.",
+    "reference_toki_pona": "o uta e monsi mi.",
+    "prediction": "o uta e noka mi."
+  },
+  {
+    "id": 98,
+    "english": "Kitty!",
+    "reference_toki_pona": "soweli pona a!",
+    "prediction": "soweli pona!"
+  },
+  {
+    "id": 99,
+    "english": "It was very cold.",
+    "reference_toki_pona": "lete mute li lon.",
+    "prediction": "lete mute li lete."
+  }
+]
